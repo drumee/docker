@@ -1,4 +1,4 @@
-# drumee-docker-compose
+# Installation via Docker Compose file
  Docker compose file for Drumee Installation
 
 ## Prerequisite
